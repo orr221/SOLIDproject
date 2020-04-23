@@ -1,6 +1,6 @@
 import random
 
-
+להלהלהל
 class InvalidMoveError(Exception):
     pass
 
